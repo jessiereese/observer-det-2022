@@ -1,0 +1,13 @@
+name: ObserverDetections2022
+title: ObserverDetections2022
+username:
+account: imbcr
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 7552699
+bundleId: 6486138
+url: https://imbcr.shinyapps.io/ObserverDetections2022/
+when: 1667855377.64454
+lastSyncTime: 1667855377.64454
+asMultiple: FALSE
+asStatic: FALSE
